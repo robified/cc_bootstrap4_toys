@@ -13,14 +13,15 @@
             crossorigin="anonymous"
         />
         <title>Display Utility</title>
-        <link rel="stylesheet" href="app.css">
     </head>
 
     <body>
         <div class="container">
             <h1 class="bg-dark text-white">This is an h1 block</h1>
             <h1 class="bg-dark text-white d-inline">This is an h1 inilne</h1>
-            <h1 class="bg-dark text-white d-none">This is an h1 display: none</h1>
+            <h1 class="bg-dark text-white d-none">
+                This is an h1 display: none
+            </h1>
             <span class="bg-info text-white">I AM A REGULAR SPAN</span>
             <span class="bg-info text-white d-block">I AM A BLOCK SPAN</span>
             <h1 class="d-none d-sm-block">HIDDEN ON XS</h1>
@@ -28,15 +29,20 @@
         </div>
 
         <div class="container">
-            <h1>Current breakpoint is:
+            <h1>
+                Current breakpoint is:
                 <span class="d-inline d-sm-none text-danger">XS</span>
-                <span class="d-none d-sm-inline d-md-none text-warning">SM</span>
-                <span class="d-none d-md-inline d-lg-none text-success">MD</span>
+                <span class="d-none d-sm-inline d-md-none text-warning"
+                    >SM</span
+                >
+                <span class="d-none d-md-inline d-lg-none text-success"
+                    >MD</span
+                >
                 <span class="d-none d-lg-inline d-xl-none text-info">LG</span>
                 <span class="d-none d-xl-inline text-primary">XL</span>
             </h1>
         </div>
-        
+
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script
