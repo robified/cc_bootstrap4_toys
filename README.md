@@ -18,6 +18,12 @@ Concepts learned:
     -   Display Utility
     -   Borders and Shadows
     -   Margin and Padding
+-   Forms
+    -   Form Controls
+    -   Checkboxes/Form Checks
+    -   Custom Inputs
+    -   Input Groups & Icons
+    -   Inline Forms
 
 The Udemy course used throughout this repo
 
