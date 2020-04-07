@@ -5,9 +5,11 @@ This repo consists of me working on miscellaneous projects using jQuery, Popper,
 Concepts learned:
 
 -   What is bs4
--   How to include bs4 via
+    -   How to include bs4 via
     -   CDN
     -   Downloaded files
+- Basics
+    - color, buttons, typography, jumbotrons
 
 The Udemy course used throughout this repo
 
