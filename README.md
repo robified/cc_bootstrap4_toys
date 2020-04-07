@@ -8,8 +8,16 @@ Concepts learned:
     -   How to include bs4 via
     -   CDN
     -   Downloaded files
-- Basics
-    - color, buttons, typography, jumbotrons
+-   Basics
+    -   Color
+    -   Buttons
+    -   Typography
+    -   Jumbotrons
+-   Useful Utilities
+    -   Breakpoints
+    -   Display Utility
+    -   Borders and Shadows
+    -   Margin and Padding
 
 The Udemy course used throughout this repo
 
