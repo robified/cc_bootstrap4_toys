@@ -29,6 +29,12 @@ Concepts learned:
     -   Flexbox and Navs
     -   Flexbox Review
     -   Navbars
+-   Grid System
+    -   Grid
+    -   Response Grid
+    -   Grid Alignment
+    -   Offsets & Nesting
+    -   Forms and The Grid
 
 The Udemy course used throughout this repo
 
