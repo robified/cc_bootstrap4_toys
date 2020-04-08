@@ -35,6 +35,11 @@ Concepts learned:
     -   Grid Alignment
     -   Offsets & Nesting
     -   Forms and The Grid
+-   Cards and List Groups
+    -   List Groups
+    -   Cards Basics
+    -   Cards With Images
+    -   Cards Layout
 
 The Udemy course used throughout this repo
 
