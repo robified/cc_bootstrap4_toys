@@ -24,6 +24,11 @@ Concepts learned:
     -   Custom Inputs
     -   Input Groups & Icons
     -   Inline Forms
+-   Navbars and Flexbox
+    -   Nav Components
+    -   Flexbox and Navs
+    -   Flexbox Review
+    -   Navbars
 
 The Udemy course used throughout this repo
 
