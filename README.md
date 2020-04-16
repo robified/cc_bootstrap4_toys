@@ -40,6 +40,12 @@ Concepts learned:
     -   Cards Basics
     -   Cards With Images
     -   Cards Layout
+-   Other Components
+    -   Badges
+    -   Breadcrumbs
+    -   Button Groups
+    -   Pagination
+    -   Progress Bars
 
 The Udemy course used throughout this repo
 
