@@ -55,6 +55,10 @@ Concepts learned:
     -   Modals
     -   Scrollspy
     -   Carousels
+-   Customizing Bootstrap w/ SASS
+    -   Intro to SASS and Koala
+    -   Using Bootstrap Source Files
+    -   Customizing Colors
 
 The Udemy course used throughout this repo
 
