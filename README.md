@@ -46,6 +46,15 @@ Concepts learned:
     -   Button Groups
     -   Pagination
     -   Progress Bars
+-   JavaScript Components
+    -   Alerts
+    -   Tooltips
+    -   Popovers
+    -   Dropdowns
+    -   Collapse and Accordions
+    -   Modals
+    -   Scrollspy
+    -   Carousels
 
 The Udemy course used throughout this repo
 

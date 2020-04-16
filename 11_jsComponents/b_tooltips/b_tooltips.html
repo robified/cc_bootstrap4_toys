@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- required meta tags -->
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- bootstrap CSS -->
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+            integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+            crossorigin="anonymous"
+        />
+
+        <title>Tooltips</title>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1 class="display-3 text-center" role="alert">Tooltips</h1>
+            <button
+                class="btn btn-info"
+                data-toggle="tooltip"
+                data-placement="top"
+                title="Thanks for hovering"
+            >
+                Hover On Me
+            </button>
+            <button
+                class="btn btn-success"
+                data-toggle="tooltip"
+                data-placement="bottom"
+                title="Thanks for hovering"
+            >
+                Hover On Me
+            </button>
+            <button
+                class="btn btn-success"
+                data-toggle="tooltip"
+                data-placement="bottom"
+                data-html="true"
+                title="This tooltip is <h4>happening</h4>"
+            >
+                Hover On Me
+            </button>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                <a
+                    href=""
+                    data-toggle="tooltip"
+                    data-placement="right"
+                    data-title="A bread of dragons"
+                    >Voluptas</a
+                >
+                temporibus dolorum optio repellat ab quis cumque tenetur
+                dolorem, explicabo enim? Explicabo nostrum, veniam reiciendis
+                minus autem cupiditate beatae totam obcaecati, minima sed, vitae
+                repudiandae eaque doloremque maxime. Ipsum, quis atque. Libero
+                sunt sit sint perferendis dolorem, suscipit placeat similique
+                dolor?
+            </p>
+        </div>
+
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script
+            src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+            crossorigin="anonymous"
+        ></script>
+        <script src="app.js"></script>
+    </body>
+</html>
